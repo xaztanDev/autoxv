@@ -1,0 +1,6 @@
+{
+  "name": "AutoXV-v1",
+  "description": "All-in-One Utility Suite: Social Downloader, Expense Tracker with AI Receipt OCR, Email Security breach checker, Telegram Bot Manager, Social Backup Archiver, Media-to-Link hoster, and AES-256 Encrypted Password Vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
